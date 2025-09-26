@@ -1,7 +1,9 @@
 🚀 Project Overview
+
 This is a modern, single-page portfolio designed to showcase the skills, award-winning projects, and professional background of Lancy J., a Data Science and Engineering student. The website is built with a mobile-first approach, ensuring a seamless experience across all devices. It features a clean, minimalist design with interactive elements to create an engaging user experience.
 
 ✨ Key Features
+
 Fully Responsive Design: The layout fluidly adapts to various screen sizes, from mobile phones to widescreen desktops, using the Bootstrap 5 grid system.
 
 Light/Dark Theme Toggler: Users can switch between a light and a dark theme. The preference is saved in the browser's local storage for a persistent experience.
@@ -15,6 +17,7 @@ Dynamic Content: The copyright year in the footer is automatically updated using
 Cross-Browser Compatibility: The site is tested and optimized for all modern web browsers.
 
 🛠️ Technologies Used
+
 This project was built using a combination of foundational front-end technologies and popular libraries:
 
 HTML5: For the semantic structure and content of the website.
